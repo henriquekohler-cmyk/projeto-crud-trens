@@ -1,5 +1,7 @@
 # 🚆 CRUD Trens
 
+Desenvolvido por Henrique Jean Köhler
+
 Um sistema web simples e eficiente desenvolvido para gerenciamento e simulação de frota ferroviária.
 
 ---
