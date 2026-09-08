@@ -2,7 +2,7 @@
 
 $servidor = 'localhost';
 $usuario = 'root';
-$senha = 'root';
+$senha = '';
 $banco = 'frota_ferroviaria';
 
 $conexao = new mysqli($servidor, $usuario, $senha, $banco);
